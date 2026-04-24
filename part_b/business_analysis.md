@@ -68,7 +68,7 @@ OR
 
 ---
 
-#  B2. Data and EDA Strategy (10 Marks)
+#  B2. Data and EDA Strategy 
 
 ## (a) Data Joining and Dataset Design
 
