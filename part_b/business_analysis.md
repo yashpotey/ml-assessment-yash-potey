@@ -2,7 +2,7 @@
 
 ---
 
-#  B1. Problem Formulation (8 Marks)
+#  B1. Problem Formulation 
 
 ## (a) Machine Learning Problem Formulation
 
@@ -147,7 +147,7 @@ Since **80% data has no promotion**:
 
 ---
 
-#  B3. Model Evaluation and Deployment (12 Marks)
+#  B3. Model Evaluation and Deployment 
 
 ## (a) Train-Test Split and Evaluation
 
